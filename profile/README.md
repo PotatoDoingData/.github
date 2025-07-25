@@ -14,7 +14,7 @@
 
 ## 💡 About Us
 
-**데이터하는 감자들**은 데이터 분석, AI 에이전트, 업무 자동화에 관심 있는 멤버들이 모여  
+**데이터하는 감자들**은 데이터 분석, Reasoning AI에 관심 있는 멤버들이 모여  
 공공데이터를 기반으로 한 혁신적인 서비스를 개발하고 있습니다.
 
 - **위치 기반 맞춤형 정보**와 **LLM 기반 AI 상담사**의 대화를 결합한 통합 서비스
@@ -27,7 +27,7 @@
 
 | Who | 이름 | 역할 & 분야 | 링크 |
 |------|------|-------------|------|
-| <img src="./assets/yujin.jpg" width="100" alt="Yujin" /> | **양유진** | 🎯 PM / AI Agent 설계<br>🧠 Reasoning AI, Agentic Workflow | [![GitHub](https://img.shields.io/badge/GitHub-6c5ce7?style=flat-square&logo=github&logoColor=white)](https://github.com/ryalu)<br>[![Notion](https://img.shields.io/badge/Notion-6c5ce7?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/20e6bec81e358042b401db633d37f4bf?source=copy_link)<br>[![Gmail](https://img.shields.io/badge/Gmail-6c5ce7?style=flat-square&logo=gmail&logoColor=white)](mailto:yangyj020101@gmail.com) |
+| <img src="./assets/yujin.jpg" width="100" alt="Yujin" /> | **양유진** | 🎯 PM / AI Agent 설계<br>🧠 Reasoning AI, Agentic Workflow | [![GitHub](https://img.shields.io/badge/GitHub-6c5ce7?style=flat-square&logo=github&logoColor=white)](https://github.com/ryalu)<br>[![Notion](https://img.shields.io/badge/Notion-6c5ce7?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/20e6bec81e358042b401db633d37f4bf?source=copy_link)<br>[![Velog](https://img.shields.io/badge/Velog-6c5ce7?style=flat-square&logo=Velog&logoColor=white)](https://velog.io/@ryaluu1/posts)<br>[![Gmail](https://img.shields.io/badge/yangyj020101@gmail.com-6c5ce7?style=flat-square&logo=gmail&logoColor=white)](mailto:yangyj020101@gmail.com) |
 | <img src="./assets/yeju.jpg" width="100"/> | **반예주** | 🧩 프론트엔드 개발<br>🎨 React / n8n 커스터마이징 | [![GitHub](https://img.shields.io/badge/GitHub-6c5ce7?style=flat-square&logo=github&logoColor=white)](https://github.com/YeJuBan)<br>[![Gmail](https://img.shields.io/badge/Gmail-6c5ce7?style=flat-square&logo=gmail&logoColor=white)](mailto:a47502007@gmail.com) |
 | <img src="./assets/jihye.jpg" width="100"/> | **송지혜** | 📊 데이터 사이언티스트<br>📈 ML 모델링 / 시각화 | [![GitHub](https://img.shields.io/badge/GitHub-6c5ce7?style=flat-square&logo=github&logoColor=white)](https://github.com/nisay-ye)<br>[![Gmail](https://img.shields.io/badge/Gmail-6c5ce7?style=flat-square&logo=gmail&logoColor=white)](mailto:song30087207@gmail.com) |
 
@@ -43,7 +43,7 @@
 
 ---
 
-## ✨ 기술 스택
+## ✨ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white)
@@ -63,5 +63,6 @@
 <div align="center">
   
 🌱 **오늘도 우리의 가능성에 물을 주기**
+
 감자처럼 작지만, 삶을 바꾸는 에너지를 품고 있는 팀.
 </div>
