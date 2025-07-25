@@ -27,7 +27,7 @@
 
 | 사진 | 이름 | 역할 & 분야 | 링크 |
 |------|------|-------------|------|
-| <img src="./assets/yujin.jpg" width="100"/> | **양유진** | 🎯 PM / AI Agent 설계<br>🧠 Reasoning AI, Agentic Workflow | [![GitHub](https://img.shields.io/badge/GitHub-6c5ce7?style=flat-square&logo=github&logoColor=white)](https://github.com/ryalu)<br>[![Notion](https://img.shields.io/badge/Notion-6c5ce7?style=flat-square&logo=notion&logoColor=white)](https://yujin.dev)<br>[![Gmail](https://img.shields.io/badge/Gmail-6c5ce7?style=flat-square&logo=gmail&logoColor=white)](mailto:yangyj020101@gmail.com) |
+| <img src="./assets/yujin.jpg" width="100" alt="Yujin" /> | **양유진** | 🎯 PM / AI Agent 설계<br>🧠 Reasoning AI, Agentic Workflow | [![GitHub](https://img.shields.io/badge/GitHub-6c5ce7?style=flat-square&logo=github&logoColor=white)](https://github.com/ryalu)<br>[![Notion](https://img.shields.io/badge/Notion-6c5ce7?style=flat-square&logo=notion&logoColor=white)](https://yujin.dev)<br>[![Gmail](https://img.shields.io/badge/Gmail-6c5ce7?style=flat-square&logo=gmail&logoColor=white)](mailto:yangyj020101@gmail.com) |
 | <img src="./assets/yeju.jpg" width="100"/> | **반예주** | 🧩 프론트엔드 개발<br>🎨 React / n8n 커스터마이징 | [GitHub](https://github.com/YeJuBan)<br>[Blog](https://potato1.dev)<br>[이메일](mailto:potato1@example.com) |
 | <img src="./assets/jihye.jpg" width="100"/> | **송지혜** | 📊 데이터 사이언티스트<br>📈 ML 모델링 / 시각화 | [GitHub](https://github.com/nisay-ye)<br>[포트폴리오](https://potato2.dev)<br>[이메일](mailto:potato2@example.com) |
 
