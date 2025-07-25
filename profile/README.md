@@ -3,10 +3,10 @@
 # 🥔 데이터하는 감자들
 
 **데이터와 AI로 세상을 바꾸는 감자들의 실험실**  
-공공데이터 기반 프로젝트와 Reasoning AI, 자동화를 결합한 다양한 서비스를 만들어갑니다.
+> 데이터 기반의 문제 해결과 AI 에이전트를 활용한 자동화 서비스 개발을 추구하는 3인 팀입니다.
 
-![GitHub Org Size](https://img.shields.io/github/orgs/PotatoDoingData/members)
-![Last Commit](https://img.shields.io/github/last-commit/PotatoDoingData/erp-finance-agent)
+![GitHub Org Size](https://img.shields.io/badge/Team%20Members-3-6c5ce7?style=flat-square&logo=github&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Active-00b894?style=flat-square)
 
 </div>
 
@@ -27,9 +27,9 @@
 
 | 사진 | 이름 | 역할 & 분야 | 링크 |
 |------|------|-------------|------|
-| <img src="./assets/yujin.jpg" width="100"/> | **양유진** | PM / 기획 / AI Agent 설계<br>🧠 Reasoning AI, Agentic Workflow 설계 | [GitHub](https://github.com/ryalu)<br>[포트폴리오](https://yujin.dev)<br>[이메일](mailto:yangyj020101@gmail.com) |
-| <img src="./assets/yeju.jpg" width="100"/> | **반예주** | 프론트엔드 개발<br>React, n8n 커스터마이징 | [GitHub](https://github.com/YeJuBan)<br>[Blog](https://potato1.dev)<br>[이메일](mailto:potato1@example.com) |
-| <img src="./assets/jihye.jpg" width="100"/> | **송지혜** | 데이터 분석, ML 모델링<br>시각화 및 MLOps | [GitHub](https://github.com/nisay-ye)<br>[포트폴리오](https://potato2.dev)<br>[이메일](mailto:potato2@example.com) |
+| <img src="./assets/yujin.jpg" width="100"/> | **양유진** | 🎯 PM / AI Agent 설계<br>🧠 Reasoning AI, Agentic Workflow | [![GitHub](https://img.shields.io/badge/GitHub-6c5ce7?style=flat-square&logo=github&logoColor=white)](https://github.com/ryalu)<br>[![Notion](https://img.shields.io/badge/Notion-6c5ce7?style=flat-square&logo=notion&logoColor=white)](https://yujin.dev)<br>[![Gmail](https://img.shields.io/badge/Gmail-6c5ce7?style=flat-square&logo=gmail&logoColor=white)](mailto:yangyj020101@gmail.com) |
+| <img src="./assets/yeju.jpg" width="100"/> | **반예주** | 🧩 프론트엔드 개발<br>🎨 React / n8n 커스터마이징 | [GitHub](https://github.com/YeJuBan)<br>[Blog](https://potato1.dev)<br>[이메일](mailto:potato1@example.com) |
+| <img src="./assets/jihye.jpg" width="100"/> | **송지혜** | 📊 데이터 사이언티스트<br>📈 ML 모델링 / 시각화 | [GitHub](https://github.com/nisay-ye)<br>[포트폴리오](https://potato2.dev)<br>[이메일](mailto:potato2@example.com) |
 
 ---
 
@@ -37,9 +37,9 @@
 
 | 프로젝트명 | 설명 | 레포지토리 |
 |------------|------|------------|
-| 💸 ERP 재무 에이전트 | 자연어로 회계/재무 업무를 처리하는 Jupyter 기반 AI 플랫폼 | [GitHub](https://github.com/PotatoDoingData/erp-finance-agent) |
-| 🔧 워크플로우 생성기 | n8n + Reasoning AI로 비개발자도 자동화 가능 | [GitHub](https://github.com/PotatoDoingData/n8n-agent-builder) |
-| 🌈 꿈대면 기기 | 자면서 회의하는 디바이스, 상상 기반 프로젝트 | [GitHub](https://github.com/PotatoDoingData/dream-meeting-device) |
+| 💸 ERP 재무 에이전트 | 자연어로 회계/재무 업무를 처리하는 Jupyter 기반 AI 플랫폼 | [🔗 바로가기](https://github.com/PotatoDoingData/erp-finance-agent) |
+| 🔧 워크플로우 생성기 | n8n + Reasoning AI로 비개발자도 자동화 가능 | [🔗 바로가기](https://github.com/PotatoDoingData/n8n-agent-builder) |
+| 🌈 꿈대면 기기 | 자면서 회의하는 디바이스, 상상 기반 프로젝트 | [🔗 바로가기](https://github.com/PotatoDoingData/dream-meeting-device) |
 
 ---
 
