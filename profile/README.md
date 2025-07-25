@@ -27,9 +27,9 @@
 
 | 사진 | 이름 | 역할 & 분야 | 링크 |
 |------|------|-------------|------|
-| <img src="./assets/yujin.jpg" width="100" alt="Yujin" /> | **양유진** | 🎯 PM / AI Agent 설계<br>🧠 Reasoning AI, Agentic Workflow | [![GitHub](https://img.shields.io/badge/GitHub-6c5ce7?style=flat-square&logo=github&logoColor=white)](https://github.com/ryalu)<br>[![Notion](https://img.shields.io/badge/Notion-6c5ce7?style=flat-square&logo=notion&logoColor=white)](https://yujin.dev)<br>[![Gmail](https://img.shields.io/badge/Gmail-6c5ce7?style=flat-square&logo=gmail&logoColor=white)](mailto:yangyj020101@gmail.com) |
-| <img src="./assets/yeju.jpg" width="100"/> | **반예주** | 🧩 프론트엔드 개발<br>🎨 React / n8n 커스터마이징 | [GitHub](https://github.com/YeJuBan)<br>[Blog](https://potato1.dev)<br>[이메일](mailto:potato1@example.com) |
-| <img src="./assets/jihye.jpg" width="100"/> | **송지혜** | 📊 데이터 사이언티스트<br>📈 ML 모델링 / 시각화 | [GitHub](https://github.com/nisay-ye)<br>[포트폴리오](https://potato2.dev)<br>[이메일](mailto:potato2@example.com) |
+| <img src="./assets/yujin.jpg" width="100" alt="Yujin" /> | **양유진** | 🎯 PM / AI Agent 설계<br>🧠 Reasoning AI, Agentic Workflow | [![GitHub](https://img.shields.io/badge/GitHub-6c5ce7?style=flat-square&logo=github&logoColor=white)](https://github.com/ryalu)<br>[![Notion](https://img.shields.io/badge/Notion-6c5ce7?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/20e6bec81e358042b401db633d37f4bf?source=copy_link)<br>[![Gmail](https://img.shields.io/badge/Gmail-6c5ce7?style=flat-square&logo=gmail&logoColor=white)](mailto:yangyj020101@gmail.com) |
+| <img src="./assets/yeju.jpg" width="100"/> | **반예주** | 🧩 프론트엔드 개발<br>🎨 React / n8n 커스터마이징 | [![GitHub](https://img.shields.io/badge/GitHub-6c5ce7?style=flat-square&logo=github&logoColor=white)](https://github.com/YeJuBan)<br>[![Gmail](https://img.shields.io/badge/Gmail-6c5ce7?style=flat-square&logo=gmail&logoColor=white)](mailto:a47502007@gmail.com) |
+| <img src="./assets/jihye.jpg" width="100"/> | **송지혜** | 📊 데이터 사이언티스트<br>📈 ML 모델링 / 시각화 | [![GitHub](https://img.shields.io/badge/GitHub-6c5ce7?style=flat-square&logo=github&logoColor=white)](https://github.com/nisay-ye)<br>[![Gmail](https://img.shields.io/badge/Gmail-6c5ce7?style=flat-square&logo=gmail&logoColor=white)](mailto:song30087207@gmail.com) |
 
 ---
 
@@ -37,9 +37,9 @@
 
 | 프로젝트명 | 설명 | 레포지토리 |
 |------------|------|------------|
-| 💸 ERP 재무 에이전트 | 자연어로 회계/재무 업무를 처리하는 Jupyter 기반 AI 플랫폼 | [🔗 바로가기](https://github.com/PotatoDoingData/erp-finance-agent) |
-| 🔧 워크플로우 생성기 | n8n + Reasoning AI로 비개발자도 자동화 가능 | [🔗 바로가기](https://github.com/PotatoDoingData/n8n-agent-builder) |
-| 🌈 꿈대면 기기 | 자면서 회의하는 디바이스, 상상 기반 프로젝트 | [🔗 바로가기](https://github.com/PotatoDoingData/dream-meeting-device) |
+| 🗺️ AI와 지도가 함께하는 통일 동행 맵 | 위치 기반 사회적 지지망 시각화와 AI 상담사가 함께하는 탈북 여성 및 청소년 지원 서비스 | [🔗 바로가기](https://github.com/PotatoDoingData/erp-finance-agent) |
+| 🚒 소방관 실무 지원 앱 | 실시간 사고 및 병상 정보를 활용한 소방관 업무 효율화 앱 | [🔗 바로가기](https://github.com/PotatoDoingData/n8n-agent-builder) |
+| 🕰️ 남북한 역사 타임라인 앱 | 남북한의 역사를 인터랙티브하게 보여주는 타임라인 앱 서비스 | [🔗 바로가기](https://github.com/PotatoDoingData/dream-meeting-device) |
 
 ---
 
@@ -55,12 +55,12 @@
 
 ## 📫 Contact
 
-- 🔗 팀 노션: [데이터하는 감자들' Notion](https://your-notion-link.notion.site)  
+- 🔗 팀 노션: [데이터하는 감자들' Notion](https://www.notion.so/23914c9b1e5880199901ea8f4823182c) 
 - 🙋‍♀️ 협업 제안은 언제든 환영합니다!
 
 ---
 
-<<div align="center">
+<div align="center">
   
 🌱 **우리는 가능성에서 출발합니다.**  
 감자처럼 작지만, 삶을 바꾸는 에너지를 품고 있는 팀.
