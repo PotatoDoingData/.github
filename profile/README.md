@@ -25,7 +25,7 @@
 
 ## 👨‍👩‍👧‍👦 Members; Potatoes
 
-| 사진 | 이름 | 역할 & 분야 | 링크 |
+| Who | 이름 | 역할 & 분야 | 링크 |
 |------|------|-------------|------|
 | <img src="./assets/yujin.jpg" width="100" alt="Yujin" /> | **양유진** | 🎯 PM / AI Agent 설계<br>🧠 Reasoning AI, Agentic Workflow | [![GitHub](https://img.shields.io/badge/GitHub-6c5ce7?style=flat-square&logo=github&logoColor=white)](https://github.com/ryalu)<br>[![Notion](https://img.shields.io/badge/Notion-6c5ce7?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/20e6bec81e358042b401db633d37f4bf?source=copy_link)<br>[![Gmail](https://img.shields.io/badge/Gmail-6c5ce7?style=flat-square&logo=gmail&logoColor=white)](mailto:yangyj020101@gmail.com) |
 | <img src="./assets/yeju.jpg" width="100"/> | **반예주** | 🧩 프론트엔드 개발<br>🎨 React / n8n 커스터마이징 | [![GitHub](https://img.shields.io/badge/GitHub-6c5ce7?style=flat-square&logo=github&logoColor=white)](https://github.com/YeJuBan)<br>[![Gmail](https://img.shields.io/badge/Gmail-6c5ce7?style=flat-square&logo=gmail&logoColor=white)](mailto:a47502007@gmail.com) |
@@ -62,6 +62,6 @@
 
 <div align="center">
   
-🌱 **우리는 가능성에서 출발합니다.**  
+🌱 **오늘도 우리의 가능성에 물을 주기**
 감자처럼 작지만, 삶을 바꾸는 에너지를 품고 있는 팀.
 </div>
