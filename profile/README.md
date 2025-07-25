@@ -2,68 +2,66 @@
 
 # 🥔 데이터하는 감자들
 
-**데이터와 AI로 세상을 바꾸는 감자들의 모험**
+**데이터와 AI로 세상을 바꾸는 감자들의 실험실**  
+공공데이터 기반 프로젝트와 Reasoning AI, 자동화를 결합한 다양한 서비스를 만들어갑니다.
 
-![GitHub Org Size](https://img.shields.io/github/orgs/your-org-name/members)
-![GitHub last commit](https://img.shields.io/github/last-commit/your-org-name/your-project-repo)
-![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)
+![GitHub Org Size](https://img.shields.io/github/orgs/PotatoDoingData/members)
+![Last Commit](https://img.shields.io/github/last-commit/PotatoDoingData/erp-finance-agent)
 
 </div>
 
 ---
 
-## 🧑‍🤝‍🧑 팀 소개
+## 💡 About Us
 
-**데이터하는 감자들**은 데이터 분석과 AI 기반 서비스를 기획하고 개발하는 팀입니다.  
-다양한 사회적 문제를 해결하고, 사람들에게 더 나은 경험을 제공하는 것을 목표로 합니다.  
-우리는 실험을 두려워하지 않으며, 프로젝트 중심의 학습과 협업을 지향합니다.
+**데이터하는 감자들**은 데이터 분석, AI 에이전트, 업무 자동화에 관심 있는 멤버들이 모여  
+공공데이터를 기반으로 한 혁신적인 서비스를 개발하고 있습니다.
 
----
-
-## 👨‍🌾 팀원 소개
-
-| 이름 | 역할 | GitHub | 소개 |
-|------|------|--------|------|
-| 🥔 유진 | PM, 기획, AI Agent 설계 | [@yujin-github](https://github.com/yujin-github) | 비IT직무도 AI를 다룰 수 있는 서비스 설계를 목표로 합니다. Reasoning AI, Jupyter 기반 Agent 설계 전문 |
-| 🥔 감자1 | FE 개발자 | [@potato1](https://github.com/potato1) | TypeScript, React 기반의 인터랙티브한 UI 구현 전문가 |
-| 🥔 감자2 | Data Scientist | [@potato2](https://github.com/potato2) | 분석 모델 설계, MLOps, 데이터 시각화 담당. Pandas & PyTorch 러버 |
-
-> 💡 팀원 소개에 개인 블로그, 포트폴리오, 이메일 등을 연결하려면 위 표에 링크를 추가하면 됩니다.
+- 공공데이터와 Reasoning AI를 결합한 **Jupyter 기반 AI Agent 서비스**
+- 비IT직무자도 쉽게 쓸 수 있는 **n8n 워크플로우 자동화**
+- 실험적이고 창의적인 **상상형 디바이스 프로젝트** 등도 시도 중!
 
 ---
 
-## 🚀 프로젝트 소개
+## 👨‍👩‍👧‍👦 Members; Potatos
+
+| 사진 | 이름 | 역할 & 분야 | 링크 |
+|------|------|-------------|------|
+| <img src="./assets/yujin.jpg" width="100"/> | **양유진** | PM / 기획 / AI Agent 설계<br>🧠 Reasoning AI, Agentic Workflow 설계 | [GitHub](https://github.com/ryalu)<br>[포트폴리오](https://yujin.dev)<br>[이메일](mailto:yangyj020101@gmail.com) |
+| <img src="./assets/yeju.jpg" width="100"/> | **반예주** | 프론트엔드 개발<br>React, n8n 커스터마이징 | [GitHub](https://github.com/YeJuBan)<br>[Blog](https://potato1.dev)<br>[이메일](mailto:potato1@example.com) |
+| <img src="./assets/jihye.jpg" width="100"/> | **송지혜** | 데이터 분석, ML 모델링<br>시각화 및 MLOps | [GitHub](https://github.com/nisay-ye)<br>[포트폴리오](https://potato2.dev)<br>[이메일](mailto:potato2@example.com) |
+
+---
+
+## 🚀 Project
 
 | 프로젝트명 | 설명 | 레포지토리 |
-|------------|------|-------------|
-| 🔧 ERP 재무 에이전트 | 자연어로 재무 업무를 처리할 수 있는 Jupyter 기반 Agent 플랫폼 | [바로가기](https://github.com/your-org-name/erp-finance-agent) |
-| 🔗 자연어 워크플로우 생성기 | n8n + Reasoning AI 기반, 비개발자도 업무 자동화 가능 | [바로가기](https://github.com/your-org-name/n8n-agent-builder) |
-| 🌈 꿈대면 기기 | VR 기반 ‘꿈 속 회의’ 장치 상상 프로젝트 | [바로가기](https://github.com/your-org-name/dream-meeting-device) |
+|------------|------|------------|
+| 💸 ERP 재무 에이전트 | 자연어로 회계/재무 업무를 처리하는 Jupyter 기반 AI 플랫폼 | [GitHub](https://github.com/PotatoDoingData/erp-finance-agent) |
+| 🔧 워크플로우 생성기 | n8n + Reasoning AI로 비개발자도 자동화 가능 | [GitHub](https://github.com/PotatoDoingData/n8n-agent-builder) |
+| 🌈 꿈대면 기기 | 자면서 회의하는 디바이스, 상상 기반 프로젝트 | [GitHub](https://github.com/PotatoDoingData/dream-meeting-device) |
 
 ---
 
-## 📌 주요 기술 스택
+## ✨ 기술 스택
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![n8n](https://img.shields.io/badge/n8n-FF6D00?style=flat-square&logo=n8n&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
----
-
-## 💬 연락처 및 커뮤니티
-
-- 📧 이메일: datapotato.team@gmail.com  
-- 📌 블로그: [Notion 팀페이지](https://your-team-notion-link.notion.site)  
-- 🧠 포트폴리오 정리 중입니다. 곧 공개됩니다!
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![n8n](https://img.shields.io/badge/n8n-FF6D00?style=flat&logo=n8n&logoColor=white)
 
 ---
 
-<div align="center">
+## 📫 Contact
 
-`📈 데이터로 세상을 바꾸는 감자들의 여정은 계속됩니다.`  
-함께 협업하고 싶은 분은 언제든 연락주세요! 🤝
+- 🔗 팀 노션: [데이터하는 감자들' Notion](https://your-notion-link.notion.site)  
+- 🙋‍♀️ 협업 제안은 언제든 환영합니다!
 
+---
+
+<<div align="center">
+  
+🌱 **우리는 가능성에서 출발합니다.**  
+감자처럼 작지만, 삶을 바꾸는 에너지를 품고 있는 팀.
 </div>
