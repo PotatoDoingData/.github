@@ -39,7 +39,7 @@
 |------------|------|------------|
 | 🗺️ AI와 지도가 함께하는 통일 동행 맵 | 위치 기반 사회적 지지망 시각화와 AI 상담사가 함께하는 탈북 여성 및 청소년 지원 서비스 | [🔗 바로가기](https://github.com/PotatoDoingData/erp-finance-agent) |
 | 🚒 소방관 실무 지원 앱 | 실시간 사고 및 병상 정보를 활용한 소방관 업무 효율화 앱 | [🔗 바로가기](https://github.com/PotatoDoingData/n8n-agent-builder) |
-| 🕰️ 남북한 역사 타임라인 앱 | 남북한의 역사를 인터랙티브하게 보여주는 타임라인 앱 서비스 | [🔗 바로가기](https://github.com/PotatoDoingData/dream-meeting-device) |
+| 🕰️ 남북한 역사 타임라인 앱 | 남북한의 역사를 인터랙티브하게 보여주는 타임라인 앱 서비스 | [🔗 바로가기](https://github.com/PotatoDoingData/TimeInter) |
 
 ---
 
