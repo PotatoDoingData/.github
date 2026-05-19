@@ -65,7 +65,7 @@
 
 ## 📫 Contact
 
-- 🔗 팀 노션: [데이터하는 감자들' Notion]([https://www.notion.so/23914c9b1e5880199901ea8f4823182c](https://www.notion.so/34d6bec81e3580ada5d2f5536dd9c064?source=copy_link))  
+- 🔗 팀 노션: [데이터하는 감자들' Notion](https://www.notion.so/34d6bec81e3580ada5d2f5536dd9c064?source=copy_link) 
 - 🙋‍♀️ 협업 제안은 언제든 환영합니다!
 
 ---
