@@ -30,6 +30,7 @@
 | <img src="./assets/yujin.jpg" width="100" alt="Yujin" /> | **양유진** | 🎯 PM / AI Agent 설계<br>🧠 Reasoning AI, Agentic Workflow | [![GitHub](https://img.shields.io/badge/GitHub-6c5ce7?style=flat-square&logo=github&logoColor=white)](https://github.com/ryalu)<br>[![Velog](https://img.shields.io/badge/Velog-6c5ce7?style=flat-square&logo=Velog&logoColor=white)](https://velog.io/@ryaluu1/posts)<br>[![Gmail](https://img.shields.io/badge/Gmail-6c5ce7?style=flat-square&logo=gmail&logoColor=white)](mailto:yangyj020101@gmail.com) |
 | <img src="./assets/yeju.jpg" width="100"/> | **반예주** | 🧩 프론트엔드 개발<br>🎨 React 커스터마이징 | [![GitHub](https://img.shields.io/badge/GitHub-6c5ce7?style=flat-square&logo=github&logoColor=white)](https://github.com/YeJuBan)<br>[![Gmail](https://img.shields.io/badge/Gmail-6c5ce7?style=flat-square&logo=gmail&logoColor=white)](mailto:a47502007@gmail.com) |
 | <img src="./assets/jihye.jpg" width="100"/> | **송지혜** | 📊 데이터 사이언티스트<br>📈 ML 모델링 / 시각화 | [![GitHub](https://img.shields.io/badge/GitHub-6c5ce7?style=flat-square&logo=github&logoColor=white)](https://github.com/nisay-ye)<br>[![Gmail](https://img.shields.io/badge/Gmail-6c5ce7?style=flat-square&logo=gmail&logoColor=white)](mailto:song30087207@gmail.com) |
+| <img src="./assets/hajin.jpg" width="100"/> | **임하진** | 🪙 서비스 기획 / BM 설계<br>🛜 인프라 구축 | [![GitHub](https://img.shields.io/badge/GitHub-6c5ce7?style=flat-square&logo=github&logoColor=white)](https://github.com/..)<br>[![Gmail](https://img.shields.io/badge/Gmail-6c5ce7?style=flat-square&logo=gmail&logoColor=white)](mailto:..@gmail.com) |
 
 ---
 
@@ -40,6 +41,7 @@
 | 🗺️ AI와 지도가 함께하는 통일 동행 맵 | 위치 기반 사회적 지지망 시각화와 AI 상담사가 함께하는 탈북 여성 및 청소년 지원 서비스 | [🔗 바로가기](https://github.com/PotatoDoingData/AI-map) |
 | 🚒 소방관 실무 지원 앱 | 실시간 사고 및 병상 정보를 활용한 소방관 업무 효율화 앱 | [🔗 바로가기](https://github.com/PotatoDoingData/firefighter) |
 | 🕰️ 남북한 역사 타임라인 앱 | 남북한의 역사를 인터랙티브하게 보여주는 타임라인 앱 서비스 | [🔗 바로가기](https://github.com/PotatoDoingData/TimeInter) |
+| 😋 맛.ZIP | 외국인 맛춤형 AI 관광 서비스 | [🔗 바로가기](https://github.com/PotatoDoingData/mat.ZIP) |
 
 ---
 
@@ -63,7 +65,7 @@
 
 ## 📫 Contact
 
-- 🔗 팀 노션: [데이터하는 감자들' Notion](https://www.notion.so/23914c9b1e5880199901ea8f4823182c)  
+- 🔗 팀 노션: [데이터하는 감자들' Notion]([https://www.notion.so/23914c9b1e5880199901ea8f4823182c](https://www.notion.so/34d6bec81e3580ada5d2f5536dd9c064?source=copy_link))  
 - 🙋‍♀️ 협업 제안은 언제든 환영합니다!
 
 ---
